@@ -1,0 +1,13 @@
+easyocr
+opencv-python
+numpy
+Pillow
+pytesseract
+spacy
+rapidfuzz
+python-Levenshtein
+pytest
+typer
+python-dotenv
+scikit-image
+pyspellchecker
